@@ -1,7 +1,0 @@
-[package]
-name = "rust-learning"
-version = "0.1.0"
-edition = "2021"
-
-# Dependencies (optional for now)
-[dependencies]
